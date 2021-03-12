@@ -1,7 +1,11 @@
 {
-  "name": "package1",
+  "name": "HerramientasHTML",
   "version": "1.0.0",
   "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,10 +20,6 @@
     "url": "https://github.com/cribasy/HerramientasHTML/issues"
   },
   "homepage": "https://github.com/cribasy/HerramientasHTML#readme",
-  "devDependencies": {
-    "parcel-bundler": "^1.12.4"
-  },
-  "dependencies": {},
   "description": ""
 }
 
