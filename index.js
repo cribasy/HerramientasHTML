@@ -1,3 +1,3 @@
-var a=prompt("Hola!")
+const name = 'world';
 
-console.log('hello world')
+console.log(`Hello ${name}`);
